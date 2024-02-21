@@ -2,7 +2,7 @@ Project in Go
 
 https://reintech.io/blog/implementing-distributed-file-system-go
 
-Project in Python
+Project in Python with FAST API
 
 https://medium.com/@chodvadiyasaurabh/building-a-file-upload-and-download-api-with-python-and-fastapi-3de94e4d1a35
 
